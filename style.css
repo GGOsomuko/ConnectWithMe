@@ -34,8 +34,8 @@ div.activezone{
 }
 
 img{
-    clip-path: circle(50%);
-    height: 15px;
+    clip-path: circle(45%);
+    height: 60px;
     width: auto;
 }
 h4{
